@@ -118,11 +118,9 @@ Example:
 
 Screenshot:
 
-```
-docs/screenshots/function.png
-```
 
----
+![Function](function.png)
+
 
 ## Stored Procedures
 
