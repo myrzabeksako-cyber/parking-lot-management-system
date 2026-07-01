@@ -134,9 +134,9 @@ Examples include:
 
 Screenshot:
 
-```
-docs/screenshots/procedure.png
-```
+
+![Procedure](procedure.png)
+
 
 ---
 
@@ -153,13 +153,12 @@ Packages improve:
 
 Screenshots:
 
-```
-docs/screenshots/package.png
 
-docs/screenshots/package2.png
-```
+![Package](package.png)
 
----
+![Package](package2.png)
+
+
 
 ## Triggers
 
@@ -173,11 +172,10 @@ Examples:
 
 Screenshot:
 
-```
-docs/screenshots/trigger.png
-```
 
----
+![Trigger](trigger.png)
+
+
 
 ## Cursors
 
@@ -191,11 +189,7 @@ Cursor implementation demonstrates:
 
 Screenshot:
 
-```
-docs/screenshots/cursor.png
-```
-
----
+![Cursor](cursor.png)
 
 ## Records
 
@@ -209,11 +203,10 @@ They improve:
 
 Screenshot:
 
-```
-docs/screenshots/records.png
-```
 
----
+![Records](records.png)
+
+
 
 ## Collections
 
@@ -223,11 +216,10 @@ The project demonstrates the use of PL/SQL collection methods for bulk data mani
 
 Screenshot:
 
-```
-docs/screenshots/collection.png
-```
 
----
+![Collection](collection.png)
+
+
 
 ## Exception Handling
 
