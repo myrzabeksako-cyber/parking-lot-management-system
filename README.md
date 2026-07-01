@@ -79,7 +79,7 @@ The system consists of **11 normalized entities**.
 
 # 📊 Entity Relationship Diagram
 
-![ER Diagram](docs/ERD.png)
+![ER Diagram](ERD.png)
 
 The database schema follows normalization principles and maintains referential integrity using primary keys, foreign keys, and unique constraints.
 
