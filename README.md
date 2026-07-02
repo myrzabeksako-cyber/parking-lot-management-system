@@ -1,4 +1,4 @@
-# 🚗 Parking Lot Management System
+# Parking Lot Management System
 
 > A comprehensive Oracle SQL & PL/SQL database management system for managing parking lots, parking spaces, vehicles, subscriptions, parking sessions, and payments.
 
@@ -9,7 +9,7 @@
 
 ---
 
-# 📖 Overview
+# Overview
 
 Parking Lot Management System is a complete relational database project developed using **Oracle Database**, **PL/SQL**, and **Oracle APEX**.
 
@@ -31,7 +31,7 @@ Unlike simple CRUD databases, this project includes business logic implemented d
 
 ---
 
-# ✨ Features
+# Features
 
 - Multi-level parking lot management
 - Parking space allocation
@@ -47,7 +47,7 @@ Unlike simple CRUD databases, this project includes business logic implemented d
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 - Oracle Database
 - Oracle SQL
@@ -57,7 +57,7 @@ Unlike simple CRUD databases, this project includes business logic implemented d
 
 ---
 
-# 🗂 Database Structure
+# Database Structure
 
 The system consists of **11 normalized entities**.
 
@@ -77,7 +77,7 @@ The system consists of **11 normalized entities**.
 
 ---
 
-# 📊 Entity Relationship Diagram
+# Entity Relationship Diagram
 
 ![ER Diagram](ERD.png)
 
@@ -85,7 +85,7 @@ The database schema follows normalization principles and maintains referential i
 
 ---
 
-# ⚙️ Oracle APEX Interface
+# Oracle APEX Interface
 
 The project includes an Oracle APEX application that provides a user-friendly interface for interacting with the database.
 
@@ -103,7 +103,7 @@ docs/screenshots/
 
 ---
 
-# 🧠 Database Features
+# Database Features
 
 This project demonstrates the use of advanced Oracle Database features.
 
@@ -234,7 +234,7 @@ Implemented techniques include:
 
 ---
 
-# 📈 SQL Queries
+# SQL Queries
 
 The project contains over **20 SQL queries**, including:
 
@@ -250,7 +250,7 @@ Each query was designed to solve a practical business problem related to parking
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Parking-Lot-Management-System
@@ -301,7 +301,7 @@ Parking-Lot-Management-System
 
 ---
 
-# 🚀 How to Run
+# How to Run
 
 1. Create an Oracle Database schema.
 2. Execute the SQL scripts in the following order:
@@ -331,7 +331,7 @@ Queries
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 Unlike many educational database projects, the dataset used in this project was **manually generated and designed**, rather than automatically produced by tools such as Mockaroo.
 
@@ -339,7 +339,7 @@ Each table contains over **100 records**, enabling realistic testing of SQL quer
 
 ---
 
-# 📌 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates practical experience with:
 
@@ -361,7 +361,7 @@ This project demonstrates practical experience with:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Potential enhancements include:
 
@@ -375,7 +375,7 @@ Potential enhancements include:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Sagynzhan Myrzabek**
 
@@ -391,6 +391,6 @@ Interested in:
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
